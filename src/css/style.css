@@ -1,0 +1,12 @@
+.navbar{
+    background: yellow;
+}
+
+.navbar ul li{
+    list-style: none;text-align: center;
+    margin:5px;
+}
+.navbar ul {
+    display: flex;
+    justify-content: center;
+}
